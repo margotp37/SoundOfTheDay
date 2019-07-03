@@ -138,7 +138,7 @@ window.onclick = function(event) {
    text-align: left;
 }
 #tuto_box-shadow {
-    box-shadow : 4px 0px 4px  #000000 ;
+    box-shadow : 0px 0px 4px  #000000 ;
 }
 .tab { margin-left: 10px; }
 </style>
