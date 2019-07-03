@@ -54,9 +54,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
-    <span class="close">&times;</span>
+    <span class="close">&times;</span><center>
   <p>2019_07_02 // Hooverphonic - Mad About You</p>
-    <p>2019_07_01 // Adam Naas - The Love</p>
+  <p>2019_07_01 // Adam Naas - The Love</p></center>
   </div>
 </div>
 <script>
