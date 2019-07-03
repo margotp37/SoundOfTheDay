@@ -87,9 +87,7 @@ window.onclick = function(event) {
   }
 }
 </script>
-</p>
 </body>
-</html>
 <html>
 <head>
 <title>Page Title</title>
@@ -110,7 +108,7 @@ body {
   
   <br>
 
-<p>Bonne Ã©coute ;)</p>
+<p>Bonne écoute ;)</p>
 <html>
 <head>
 <style>
@@ -132,3 +130,5 @@ body {
 </html>
 </body>
 </html>
+Les suggestions c'est ici :  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png" width="30">
+``` <br/> Me contacter </center> ]mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day
