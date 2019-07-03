@@ -114,14 +114,6 @@ window.onclick = function(event) {
   left: 16px;
   font-size: 18px;
 }
-</style>
-</head>
-<body>
-<div class="bottomleft"><p>Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day" target="_blank">C'est ici !</a></p></div>
-</body>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 .footer {
    position: fixed;
    left: 0;
@@ -134,8 +126,5 @@ window.onclick = function(event) {
 </style>
 </head>
 <body>
-<div class="footer">
-  <p>Footer ouais ouais yo yo</p>
-</div>
-
+<div class="bottomleft"><div class="footer"><p>Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day" target="_blank">C'est ici !</a></p></div></div>
 </body>
