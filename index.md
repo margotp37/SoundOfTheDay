@@ -119,7 +119,7 @@ window.onclick = function(event) {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: none;
+   background-color: pink;
    color: black;
    text-align: center;
 }
