@@ -91,13 +91,13 @@ window.onclick = function(event) {
 
   <!------------------------- SoundOfTheDay -------------------------->
 
-<p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque :wink: <br /> <br />
+<center><p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;-) <br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eYOCJn5xvTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   <br>
 
-<p>Bonne écoute ;)</p>
+<p>Bonne écoute ;)</p></center>
 
 
 [Une suggestion ? C'est ici](mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day)
