@@ -123,4 +123,4 @@ Une suggestion ? C'est ici : [![](https://upload.wikimedia.org/wikipedia/commons
 <div style="text-align: right"> your-text-here </div>
 
 
-<div style="text-align: left"> your-text-here </div>
+<div style="text-align: left"><p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) </br><iframe width="560" height="315" src="https://www.youtube.com/embed/6EA-MIYY1bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
