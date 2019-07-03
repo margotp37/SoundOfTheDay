@@ -100,7 +100,7 @@ window.onclick = function(event) {
   
   <br>
 
-<p>Bonne écoute ;)</p><br />
+<p>Bonne écoute ;)</p>
 
 <hr />
 
