@@ -43,7 +43,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
   cursor: pointer;
 }
 </style>
-</head>
 <body>
 
 
