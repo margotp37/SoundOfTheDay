@@ -102,5 +102,5 @@ window.onclick = function(event) {
 <p>Bonne écoute ;)</p>
 
  <!---------------------------- Suggestion -------------------------->
-<p>Les suggestions c'est <a href="https://www.w3schools.com/html/">ici</a> !</p>
+<p>Les suggestions c'est <a href="https://margotp37.github.io/SoundOfTheDay/suggest.html">ici</a> !</p>
   <!---------------------------- NE FONCTIONNE PAS -------------------------->
