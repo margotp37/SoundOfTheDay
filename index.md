@@ -138,12 +138,12 @@ window.onclick = function(event) {
    color: black;
    text-align: left;
 }
-.shadow {
+#tuto_box-shadow {
     box-shadow : 4px 0px 4px  #000000 ;
 }
 .tab { margin-left: 10px; }
 </style>
 </head>
 <body>
-<div class="bottomleft"><div class="footer"><div id="shadow"><div class="tab"><p>Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day" target="_blank">C'est ici !</a></p></div></div></div></div>
+<div class="bottomleft"><div class="footer"><div id="tuto_box-shadow"><div class="tab"><p>Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day" target="_blank">C'est ici !</a></p></div></div></div></div>
 </body>
