@@ -104,3 +104,4 @@ window.onclick = function(event) {
  <!---------------------------- Suggestion -------------------------->
 
 Une suggestion ? [C'est ici !](mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day)
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
