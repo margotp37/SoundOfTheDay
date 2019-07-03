@@ -93,13 +93,15 @@ window.onclick = function(event) {
 
 <br />
 <center>
-<p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eYOCJn5xvTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br>
-
-<p>Bonne écoute ;)</p>
+<p><p>&nbsp;</p>
+<h2>Une suggestion ? Envie de faire d&eacute;couvrir unartiste/un morceau ? C'est juste en dessous !</h2>
+<p>&nbsp;</p>
+<form action="mailto:pierre.margot@arps.fr
+?subject=[Intra] Suggestion Sound of The Day" enctype="text/plain" method="get">
+<p>Email: <input name="email" type="text" /></p>
+<p>Commentaire: <br /> <textarea cols="35" name="comments" rows="12">Soyez pas timide ;)</textarea></p>
+<p><input name="submit" type="submit" value="Envoyer" /> <input name="reset" type="reset" value="Effacer" /></p>
+</form></p>
 
  <!---------------------------- Suggestion -------------------------->
 <p>Les suggestions c'est <a href="https://www.w3schools.com/html/">ici</a> !</p>
