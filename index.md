@@ -1,3 +1,4 @@
+<!------------------------- POPUP -------------------------->
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -87,6 +88,8 @@ window.onclick = function(event) {
 }
 </script>
 </body>
+
+  <!------------------------- SoundOfTheDay -------------------------->
 
 <p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) <br /> <br />
   
