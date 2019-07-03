@@ -53,7 +53,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <!-- The Modal -->
 <div id="myModal" class="modal">
 
-  <!-- Modal content -->
+  <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span>
   <p>2019_07_02 // Hooverphonic - Mad About You</p>
@@ -88,19 +88,6 @@ window.onclick = function(event) {
 }
 </script>
 </body>
-<html>
-<head>
-<title>Page Title</title>
-<style>
-body {
-  background-color: none;
-  text-align: center;
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-}
-</style>
-</head>
-<body>
 
 <p><strong>Mercredi 03 Juillet 2019<br>Hooverphonic - Mad About You</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) <br /> <br />
   
