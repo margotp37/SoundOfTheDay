@@ -95,35 +95,6 @@ window.onclick = function(event) {
   <br>
 
 <p>Bonne écoute ;)</p>
-<html>
-<head>
-<style>
-.container {
-  position: relative;
-}
-.bottomleft {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-  font-size: 18px;
-}
-</style>
-<body>
-<div class="bottomleft"><p>Une suggestion ? C'est ici : [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png =30x)](mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day)</p></div>
-</body>
-</html>
-</body>
-</html>
-Les suggestions c'est ici :  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png" width="30">
-mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day
-
-Une suggestion ? C'est ici : [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png =30x)](mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day)
 
 
-<div style="text-align: right"> your-text-here </div>
-
-
-<div style="text-align: right"><p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) </br><iframe width="560" height="315" src="https://www.youtube.com/embed/6EA-MIYY1bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
-Une suggestion ? C'est ici : [Une suggestion ? C'est ici](mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day)
+[Une suggestion ? C'est ici](mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day)
