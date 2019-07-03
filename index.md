@@ -100,7 +100,11 @@ window.onclick = function(event) {
   
   <br>
 
-<p>Bonne écoute ;)</p><br /><br />
+<p>Bonne écoute ;)</p><br />
+<br />
+
+-----------------
+
 <center>
 <p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
