@@ -88,7 +88,7 @@ window.onclick = function(event) {
 </script>
 </body>
 
-<p><strong>Mercredi 03 Juillet 2019<br>Hooverphonic - Mad About You</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) <br /> <br />
+<p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) <br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eYOCJn5xvTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
@@ -116,4 +116,4 @@ window.onclick = function(event) {
 </body>
 </html>
 Les suggestions c'est ici :  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png" width="30">
-``` <br/> Me contacter </center> ]mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day
+mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day
