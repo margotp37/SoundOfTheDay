@@ -106,9 +106,6 @@ window.onclick = function(event) {
   <!---------------------------- NE FONCTIONNE PAS -------------------------->
 <head>
 <style>
-.container {
-  position: relative;
-}
 .bottomleft {
   position: absolute;
   bottom: 8px;
