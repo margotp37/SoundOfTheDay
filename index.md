@@ -103,5 +103,4 @@ window.onclick = function(event) {
 
  <!---------------------------- Suggestion -------------------------->
  Une suggestion ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day">Ici !</a>
-<p>Les suggestions c'est <a href="https://margotp37.github.io/SoundOfTheDay/suggest.html">ici</a> !</p>
   <!---------------------------- NE FONCTIONNE PAS -------------------------->
