@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,7 +48,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 
 <!-- Trigger/Open The Modal -->
-<button id="myBtn">C'Ã©tait quoi hier ?</button>
+<button id="myBtn">C'était quoi hier ?</button>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
@@ -57,6 +56,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
+  <p>2019_07_02 // Hooverphonic - Mad About You</p>
     <p>2019_07_01 // Adam Naas - The Love</p>
   </div>
 </div>
