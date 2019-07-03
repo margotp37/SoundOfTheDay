@@ -101,30 +101,7 @@ window.onclick = function(event) {
   <br>
 
 <p>Bonne écoute ;)</p><br />
-<center>
-<p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eYOCJn5xvTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br>
 
-<p>Bonne écoute ;)</p><br />
-<center>
-<p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eYOCJn5xvTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br>
-
-<p>Bonne écoute ;)</p><br />
-<center>
-<p><strong>Mercredi 03 Juillet 2019<br>William Fitzsimmons - I Kissed A Girl</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eYOCJn5xvTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br>
-
-<p>Bonne écoute ;)</p>
 
  <!---------------------------- Suggestion -------------------------->
  <!----------------------------Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day">C'est ici !</a>
@@ -141,4 +118,28 @@ window.onclick = function(event) {
 </head>
 <body>
 <div class="bottomleft"><p>Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day" target="_blank">C'est ici !</a></p></div>
+</body>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h2>Fixed/Sticky Footer Example</h2>
+<p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p><p>The footer is placed at the bottom of the page.</p>
+
+<div class="footer">
+  <p>Footer</p>
+</div>
+
 </body>
