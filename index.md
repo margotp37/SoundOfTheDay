@@ -1,35 +1,131 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<p align="right"><style>
+body {font-family: Arial, Helvetica, sans-serif;}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eYOCJn5xvTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 20px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
 
-### Markdown
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
 
-```markdown
-Syntax highlighted code block
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<!-- Trigger/Open The Modal -->
+<button id="myBtn">C'Ã©tait quoi hier ?</button>
 
-1. Numbered
-2. List
+<!-- The Modal -->
+<div id="myModal" class="modal">
 
-**Bold** and _Italic_ and `Code` text
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>2019_07_01 // Adam Naas - The Love</p>
+  </div>
+</div>
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
 
-[Link](url) and ![Image](src)
-```
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
 
-### Jekyll Themes
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/margotp37/SoundOfTheDay/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
 
-### Support or Contact
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+</p>
+</body>
+</html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: none;
+  text-align: center;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><strong>Mardi 02 Juillet 2019<br>Hooverphonic - Mad About You</strong><br>(Et comme toujours, on pense aux coll&egrave;gues, on met son casque ðŸ˜‰) <br /> <br /><iframe src="https://open.spotify.com/embed/track/5YwVDOWMKH7T0KtvpPSESQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br>
+
+<p>Bonne Ã©coute ;)</p>
+<html>
+<head>
+<style>
+.container {
+  position: relative;
+}
+.bottomleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+</style>
+</head>
+<body>
+<div class="bottomleft"><p>Une suggestion ? C'est ici : <A HREF="mailto:pierre.margot@arps.fr
+?subject=[Intra] Suggestion Sound of The Day"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png" height=30 width=30 /></A></p></div>
+</body>
+</html>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6EA-MIYY1bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --!>
+</body>
+</html>
