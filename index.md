@@ -102,5 +102,5 @@ window.onclick = function(event) {
 <p>Bonne écoute ;)</p>
 
  <!---------------------------- Suggestion -------------------------->
- Une suggestion ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day">Ici !</a>
+ Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day">C'est ici !</a>
   <!---------------------------- NE FONCTIONNE PAS -------------------------->
