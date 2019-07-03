@@ -104,7 +104,11 @@ body {
 </head>
 <body>
 
-<p><strong>Mardi 02 Juillet 2019<br>Hooverphonic - Mad About You</strong><br>(Et comme toujours, on pense aux coll&egrave;gues, on met son casque ðŸ˜‰) <br /> <br /><iframe src="https://open.spotify.com/embed/track/5YwVDOWMKH7T0KtvpPSESQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br>
+<p><strong>Mercredi 03 Juillet 2019<br>Hooverphonic - Mad About You</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) <br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eYOCJn5xvTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
 
 <p>Bonne Ã©coute ;)</p>
 <html>
@@ -126,6 +130,5 @@ body {
 ?subject=[Intra] Suggestion Sound of The Day"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png" height=30 width=30 /></A></p></div>
 </body>
 </html>
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6EA-MIYY1bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --!>
 </body>
 </html>
