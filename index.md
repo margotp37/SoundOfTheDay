@@ -129,7 +129,8 @@ window.onclick = function(event) {
 
  <!---------------------------- Suggestion -------------------------->
  <!----------------------------Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day">C'est ici !</a>
-  <!---------------------------- NE FONCTIONNE PAS -------------------------->
+  
+  <!---------------------------- FOOTER/SUGGESTION -------------------------->
 <head>
 <style>
 .bottomleft {
@@ -150,5 +151,5 @@ window.onclick = function(event) {
 </style>
 </head>
 <body>
-<div class="bottomleft"><div class="footer"><p>Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day" target="_blank">C'est ici !</a></p></div></div>
+<div class="bottomleft"><div class="footer"><p>    Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day" target="_blank">C'est ici !</a></p></div></div>
 </body>
