@@ -56,6 +56,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span><center>
+  <p>2019_07_03 // William Fitzsimmons - I Kissed A Girl</p>
   <p>2019_07_02 // Hooverphonic - Mad About You</p>
   <p>2019_07_01 // Adam Naas - The Love</p></center>
   </div>
