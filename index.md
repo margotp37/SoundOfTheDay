@@ -99,7 +99,10 @@ window.onclick = function(event) {
   
   <br>
 
-<p>Bonne écoute ;)</p></center>
+<p>Bonne écoute ;)</p>
 
 
 [Une suggestion ? C'est ici](mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day)
+<div class="bottomleft"><p>Une suggestion ? C'est ici : <A HREF="mailto:pierre.margot@arps.fr
+?subject=[Intra] Suggestion Sound of The Day"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png" height=30 width=30 /></A></p></div>
+</body>
