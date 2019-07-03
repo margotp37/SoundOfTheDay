@@ -118,3 +118,9 @@ Les suggestions c'est ici :  <img src="https://upload.wikimedia.org/wikipedia/co
 mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day
 
 Une suggestion ? C'est ici : [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/103px-Outlook.com_icon.svg.png =30x)](mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day)
+
+
+<div style="text-align: right"> your-text-here </div>
+
+
+<div style="text-align: left"> your-text-here </div>
