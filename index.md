@@ -121,7 +121,7 @@ window.onclick = function(event) {
    width: 100%;
    background-color: pink;
    color: black;
-   text-align: center;
+   text-align: left;
 }
 </style>
 </head>
