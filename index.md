@@ -127,8 +127,8 @@ window.onclick = function(event) {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: red;
-   color: white;
+   background-color: none;
+   color: black;
    text-align: center;
 }
 </style>
