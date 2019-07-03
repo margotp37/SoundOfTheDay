@@ -144,7 +144,8 @@ window.onclick = function(event) {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: pink;
+   padding-top: 10px;
+   background-color: white;
    color: black;
    text-align: left;
 }
