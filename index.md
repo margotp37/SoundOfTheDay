@@ -1,3 +1,5 @@
+<!------------------------- NOTICE -------------------------->
+<p>3 fois par semaine, retrouvez la selection musicale.</p>
 <!------------------------- POPUP -------------------------->
 <html>
 <head>
