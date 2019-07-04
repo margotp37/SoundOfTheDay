@@ -58,7 +58,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span><center>
   <p>2019_07_03 // William Fitzsimmons - I Kissed A Girl</p>
   <p>2019_07_02 // Hooverphonic - Mad About You</p>
-  <p>2019_07_01 // Adam Naas - The Love</p></center>
+  <p><a href="https://www.youtube.com/watch?v=sboin5vG1yY"> 2019_07_01 // Adam Naas - The Love </a></p></center>
   </div>
 </div>
 <script>
