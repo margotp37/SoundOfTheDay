@@ -133,7 +133,7 @@ window.onclick = function(event) {
    width: 100%;
    padding-top: 10px;
    padding-top: -5px;
-   background-color: rgba(255,255,255, .5);
+   background-color: rgba(255,255,255, .7);
    color: black;
    text-align: left;
 }
