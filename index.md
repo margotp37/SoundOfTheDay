@@ -59,8 +59,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <div class="modal-content">
     <span class="close">&times;</span><center>
   <p><a href="https://www.youtube.com/watch?v=7nxWP9BhI7w" target="_blank"> 2019_07_04 // Portishead - Roads</a></p>
-  <p>2019_07_03 // William Fitzsimmons - I Kissed A Girl</p>
-  <p>2019_07_02 // Hooverphonic - Mad About You</p>
+  <p><a href="https://www.youtube.com/watch?v=eYOCJn5xvTE" target="_blank"> 2019_07_03 // William Fitzsimmons - I Kissed A Girl</a></p>
+  <p><a href="https://www.youtube.com/watch?v=6EA-MIYY1bg" target="_blank"> 2019_07_02 // Hooverphonic - Mad About You</a></p>
   <p><a href="https://www.youtube.com/watch?v=sboin5vG1yY&list=PLcuAy9G9tbs__8nopy_Od8DFJ7QMMXqR7" target="_blank"> 2019_07_01 // Adam Naas - The Love</a></p></center>
 
   </div>
