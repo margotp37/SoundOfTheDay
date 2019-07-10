@@ -58,6 +58,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span><center>
+  <p><a href="https://www.youtube.com/watch?v=wAtN8ctVlCU" target="_blank"> 2019_07_08 // Sofia Karlberg - Crazy in Love</a></p>
   <p><a href="https://www.youtube.com/watch?v=7nxWP9BhI7w" target="_blank"> 2019_07_04 // Portishead - Roads</a></p>
   <p><a href="https://www.youtube.com/watch?v=eYOCJn5xvTE" target="_blank"> 2019_07_03 // William Fitzsimmons - I Kissed A Girl</a></p>
   <p><a href="https://www.youtube.com/watch?v=6EA-MIYY1bg" target="_blank"> 2019_07_02 // Hooverphonic - Mad About You</a></p>
@@ -98,6 +99,14 @@ window.onclick = function(event) {
 
 <br />
 <center>
+<p><strong>Mercredi 10 Juillet 2019<br>Noir Désir - Des armes</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/as4WqdVPkSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
+  
+  <br>
+
+<p>Bonne écoute ;)</p>
+
 <p><strong>Lundi 08 Juillet 2019<br>Sofia Karlberg - Crazy in Love</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAtN8ctVlCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
