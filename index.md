@@ -101,11 +101,11 @@ window.onclick = function(event) {
 <center>
 <p><strong>Mercredi 10 Juillet 2019<br>Noir Désir - Des armes</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/as4WqdVPkSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/as4WqdVPkSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   <br>
 
-<p>Bonne écoute ;)</p>
+<p>Bonne écoute ;)</p><br /><br />
 
 <p><strong>Lundi 08 Juillet 2019<br>Sofia Karlberg - Crazy in Love</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
