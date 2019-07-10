@@ -50,7 +50,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 
 <!-- Trigger/Open The Modal -->
-<button id="myBtn">C'était quoi hier ?</button>
+<button id="myBtn">C'était quoi avant ?</button>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
