@@ -100,7 +100,7 @@ window.onclick = function(event) {
 
 <br />
 <center>
-<p><strong>Jeudi 11 Juillet 2019<br>Pink Floyd - Shine On You Crazy Dialond (Part. 1 to 9)</strong><br>Et aujourd'hui on ne met <strong>pas</strong> son casque, et on fait profiter de cette merveille aux collègues ;) )<br /> <br />
+<p><strong>Jeudi 11 Juillet 2019<br>Pink Floyd - Shine On You Crazy Dialond (Part. 1 to 9)</strong><br>Et aujourd'hui on ne met <strong>pas</strong> son casque, et on fait profiter de cette merveille aux collègues ;)<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n9lkzpVcqHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
