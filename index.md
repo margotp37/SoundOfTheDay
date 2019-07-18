@@ -58,6 +58,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span><center>
+  <p><a href="https://www.youtube.com/watch?v=YoDh_gHDvkk" target="_blank"> 2019_07_17 // Queen & David Bowie - Under Pressure</a></p>
   <p><a href="https://www.youtube.com/watch?v=a_oc4ADciCg" target="_blank"> 2019_07_15 // Hyphen Hyphen - Like Boys</a></p>
   <p><a href="https://www.youtube.com/watch?v=n9lkzpVcqHg" target="_blank"> 2019_07_11 // Pink Floyd - Shine On You Crazy Diamond (complet)</a></p>
   <p><a href="https://www.youtube.com/watch?v=as4WqdVPkSI" target="_blank"> 2019_07_10 // Noir Désir - Des Armes</a></p>
@@ -102,6 +103,15 @@ window.onclick = function(event) {
 
 <br />
 <center>
+<p><strong>Jeudi 18 Juillet 2019<br>La Dispute - The Last Lost Continent</strong><br>On s'excite un peu en fin de semaine, on se laisse aller !<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Ph2coqGjn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
+
+<p>Bonne écoute ;)</p>
+<br /><br />
+
 <p><strong>Mercredi 17 Juillet 2019<br>Queen & David Bowie - Under Pressure</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YoDh_gHDvkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
