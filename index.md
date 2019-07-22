@@ -105,7 +105,7 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Lundi 15 Juillet 2019<br>Dionne Warwick - Don't Make Me Over</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 22 Juillet 2019<br>Dionne Warwick - Don't Make Me Over</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LEgxuE7WD6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
