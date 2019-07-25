@@ -58,6 +58,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span><center>
+  <p><a href="https://www.youtube.com/watch?v=n1EKcCNfNVc" target="_blank"> 2019_07_24 // Atili Bandalero feat. Cornell Campbell & Art-X - Lay Down</a></p>
   <p><a href="https://www.youtube.com/watch?v=LEgxuE7WD6U" target="_blank"> 2019_07_22 // Dionne Warwick - Don't Make Me Over</a></p>
   <p><a href="https://www.youtube.com/watch?v=-Ph2coqGjn8" target="_blank"> 2019_07_18 // La Dispute - The Last Lost Continent</a></p>
   <p><a href="https://www.youtube.com/watch?v=YoDh_gHDvkk" target="_blank"> 2019_07_17 // Queen & David Bowie - Under Pressure</a></p>
@@ -106,7 +107,15 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Mercredi 24 Juillet 2019<br>Atili Bandalero feat. Cornell Campbell & Art-X - Lay Down</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Jeudi 25 Juillet 2019<br>David et Jonathan - Est ce que tu viens pour les vacances ?</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m0MgGUnLsdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br /><p><strong>Mercredi 24 Juillet 2019<br>Atili Bandalero feat. Cornell Campbell & Art-X - Lay Down</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n1EKcCNfNVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
