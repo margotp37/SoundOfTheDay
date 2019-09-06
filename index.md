@@ -58,11 +58,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span><center>
-  <strong>** Septembre **
-    <br><p>-
-  <strong>** Aout **
-    <br><p>T'étais là toi en aout!?
-  <strong>** Juillet **
+  <strong>** Septembre **</strong>
+    <br>-
+  <strong>** Aout **</strong>
+    <br>T'étais là toi en aout!?
+  <strong>** Juillet **</strong>
   <br>
   <p><a href="https://www.youtube.com/watch?v=m0MgGUnLsdo" target="_blank"> 2019_07_25 // David et Jonathan - Est ce que tu viens pour les vacances ?</a></p>
   <p><a href="https://www.youtube.com/watch?v=n1EKcCNfNVc" target="_blank"> 2019_07_24 // Atili Bandalero feat. Cornell Campbell & Art-X - Lay Down</a></p>
