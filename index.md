@@ -58,7 +58,12 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span><center>
-  * Juillet *
+  <div style="margin:20px; margin-top:5px">
+<div class="quotetitle">
+<b>*Juillet*</b>
+<input type="button" value="Afficher" style="width:45px;font-size:10px;margin:0px;padding:0px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Cacher'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Afficher'; }" />
+</div><div class="quotecontent">
+<div style="display: none;">
   <p><a href="https://www.youtube.com/watch?v=m0MgGUnLsdo" target="_blank"> 2019_07_25 // David et Jonathan - Est ce que tu viens pour les vacances ?</a></p>
   <p><a href="https://www.youtube.com/watch?v=n1EKcCNfNVc" target="_blank"> 2019_07_24 // Atili Bandalero feat. Cornell Campbell & Art-X - Lay Down</a></p>
   <p><a href="https://www.youtube.com/watch?v=LEgxuE7WD6U" target="_blank"> 2019_07_22 // Dionne Warwick - Don't Make Me Over</a></p>
@@ -72,6 +77,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <p><a href="https://www.youtube.com/watch?v=eYOCJn5xvTE" target="_blank"> 2019_07_03 // William Fitzsimmons - I Kissed A Girl</a></p>
   <p><a href="https://www.youtube.com/watch?v=6EA-MIYY1bg" target="_blank"> 2019_07_02 // Hooverphonic - Mad About You</a></p>
   <p><a href="https://www.youtube.com/watch?v=sboin5vG1yY&list=PLcuAy9G9tbs__8nopy_Od8DFJ7QMMXqR7" target="_blank"> 2019_07_01 // Adam Naas - The Love</a></p></center>
+</div>
+</div>
+</div>
 
   </div>
 </div>
