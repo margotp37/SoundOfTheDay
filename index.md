@@ -58,6 +58,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span><center>
+  * Juillet *
   <p><a href="https://www.youtube.com/watch?v=m0MgGUnLsdo" target="_blank"> 2019_07_25 // David et Jonathan - Est ce que tu viens pour les vacances ?</a></p>
   <p><a href="https://www.youtube.com/watch?v=n1EKcCNfNVc" target="_blank"> 2019_07_24 // Atili Bandalero feat. Cornell Campbell & Art-X - Lay Down</a></p>
   <p><a href="https://www.youtube.com/watch?v=LEgxuE7WD6U" target="_blank"> 2019_07_22 // Dionne Warwick - Don't Make Me Over</a></p>
