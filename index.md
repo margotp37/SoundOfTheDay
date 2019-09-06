@@ -108,7 +108,7 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 06 Septembre 2019<br>Black Strobe - I’m A Man</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Vendredi 06 Septembre 2019 (ENFIN !)<br>Black Strobe - I’m A Man</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-dsQLsd91c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
