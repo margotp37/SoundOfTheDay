@@ -58,17 +58,28 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!------------------------- HISTORIQUE -------------------------->
   <div class="modal-content">
     <span class="close">&times;</span><center>
-<strong>** Septembre **</strong>
+      <!-------------------------SPOILER----------------------->
 
-<p><a href="https://www.youtube.com/watch?v=8-dsQLsd91c" target="_blank"> 2019_07_25 // Black Strobe - I’m A Man</a></p>
+<details><summary>Septembre 2019</summary>
+<p>
 
-<strong>** Août **</strong>
+  <p><a href="https://www.youtube.com/watch?v=8-dsQLsd91c" target="_blank"> 2019_07_25 // David et Jonathan - Est ce que tu viens pour les vacances ?</a></p>
+
+</p>
+</details>
+
+<details><summary>Août 2019</summary>
+<p>
 
 T'étais là toi en août !?
 
-<strong>** Juillet **</strong>
- 
-  <p><a href="https://www.youtube.com/watch?v=m0MgGUnLsdo" target="_blank"> 2019_07_25 // David et Jonathan - Est ce que tu viens pour les vacances ?</a></p>
+</p>
+</details>
+
+<details><summary>Juillet 2019</summary>
+<p>
+
+  <p><a href="https://www.youtube.com/watch?v=m0MgGUnLsdo" target="_blank"> 2019_07_25 // Black Strobe - I’m A Man</a></p>
   <p><a href="https://www.youtube.com/watch?v=n1EKcCNfNVc" target="_blank"> 2019_07_24 // Atili Bandalero feat. Cornell Campbell & Art-X - Lay Down</a></p>
   <p><a href="https://www.youtube.com/watch?v=LEgxuE7WD6U" target="_blank"> 2019_07_22 // Dionne Warwick - Don't Make Me Over</a></p>
   <p><a href="https://www.youtube.com/watch?v=-Ph2coqGjn8" target="_blank"> 2019_07_18 // La Dispute - The Last Lost Continent</a></p>
@@ -80,7 +91,12 @@ T'étais là toi en août !?
   <p><a href="https://www.youtube.com/watch?v=7nxWP9BhI7w" target="_blank"> 2019_07_04 // Portishead - Roads</a></p>
   <p><a href="https://www.youtube.com/watch?v=eYOCJn5xvTE" target="_blank"> 2019_07_03 // William Fitzsimmons - I Kissed A Girl</a></p>
   <p><a href="https://www.youtube.com/watch?v=6EA-MIYY1bg" target="_blank"> 2019_07_02 // Hooverphonic - Mad About You</a></p>
-  <p><a href="https://www.youtube.com/watch?v=sboin5vG1yY&list=PLcuAy9G9tbs__8nopy_Od8DFJ7QMMXqR7" target="_blank"> 2019_07_01 // Adam Naas - The Love</a></p></center>
+  <p><a href="https://www.youtube.com/watch?v=sboin5vG1yY&list=PLcuAy9G9tbs__8nopy_Od8DFJ7QMMXqR7" target="_blank"> 2019_07_01 // Adam Naas - The Love</a></p>
+
+</p>
+</details>
+<!-------------------------FIN SPOILER----------------------->
+</center>
 
   </div>
 </div>
