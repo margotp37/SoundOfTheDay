@@ -60,6 +60,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span><center>
   <strong>** Juillet **</strong>
  
+  <p><a href="https://www.youtube.com/watch?v=8-dsQLsd91c" target="_blank"> 2019_07_25 // Black Strobe - I’m A Man</a></p>
   <p><a href="https://www.youtube.com/watch?v=m0MgGUnLsdo" target="_blank"> 2019_07_25 // David et Jonathan - Est ce que tu viens pour les vacances ?</a></p>
   <p><a href="https://www.youtube.com/watch?v=n1EKcCNfNVc" target="_blank"> 2019_07_24 // Atili Bandalero feat. Cornell Campbell & Art-X - Lay Down</a></p>
   <p><a href="https://www.youtube.com/watch?v=LEgxuE7WD6U" target="_blank"> 2019_07_22 // Dionne Warwick - Don't Make Me Over</a></p>
@@ -110,9 +111,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 06 Septembre 2019 (ENFIN !)<br>Black Strobe - I’m A Man</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 09 Septembre 2019<br>Gojira - L'Enfant Sauvage</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8-dsQLsd91c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BGHlZwMYO9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   <br>
 
