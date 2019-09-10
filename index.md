@@ -63,7 +63,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Septembre 2019</summary>
 <p>
 
-  <p><a href="https://www.youtube.com/watch?v=8-dsQLsd91c" target="_blank"> 2019_07_25 // Black Strobe - I’m A Man</a></p>
+<p><a href="https://www.youtube.com/watch?v=BGHlZwMYO9g" target="_blank"> 2019_09_09 // Gojira - L'Enfant Sauvage</a></p>
+  <p><a href="https://www.youtube.com/watch?v=8-dsQLsd91c" target="_blank"> 2019_09_06 // Black Strobe - I’m A Man</a></p>
 
 </p>
 </details>
@@ -134,7 +135,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Lundi 09 Septembre 2019<br>Gojira - L'Enfant Sauvage</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Mardi 10 Septembre 2019<br>Jain - All My Days</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bt1PfbtohSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+
+<br /><br /><p><strong>Lundi 09 Septembre 2019<br>Gojira - L'Enfant Sauvage</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BGHlZwMYO9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
