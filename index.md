@@ -63,8 +63,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Septembre 2019</summary>
 <p>
 
-<p><a href="https://www.youtube.com/watch?v=BGHlZwMYO9g" target="_blank"> 2019_09_09 // Gojira - L'Enfant Sauvage</a></p>
-  <p><a href="https://www.youtube.com/watch?v=8-dsQLsd91c" target="_blank"> 2019_09_06 // Black Strobe - I’m A Man</a></p>
+ <p><a href="https://www.youtube.com/watch?v=BGHlZwMYO9g" target="_blank"> 2019_09_09 // Gojira - L'Enfant Sauvage</a></p>
+ <p><a href="https://www.youtube.com/watch?v=8-dsQLsd91c" target="_blank"> 2019_09_06 // Black Strobe - I’m A Man</a></p>
 
 </p>
 </details>
