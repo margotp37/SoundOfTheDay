@@ -59,7 +59,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <div class="modal-content">
     <span class="close">&times;</span><center>
       <!-------------------------SPOILER----------------------->
-
+<center>
 <details><summary>Septembre 2019</summary>
 <p>
 
