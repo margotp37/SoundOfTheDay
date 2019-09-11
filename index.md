@@ -63,6 +63,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Septembre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=bt1PfbtohSo" target="_blank"> 2019_09_10 // Jain - All My Days</a></p>
  <p><a href="https://www.youtube.com/watch?v=BGHlZwMYO9g" target="_blank"> 2019_09_09 // Gojira - L'Enfant Sauvage</a></p>
  <p><a href="https://www.youtube.com/watch?v=8-dsQLsd91c" target="_blank"> 2019_09_06 // Black Strobe - I’m A Man</a></p>
 
@@ -134,6 +135,17 @@ window.onclick = function(event) {
 
 <br />
 <center>
+
+<p><strong>Mercredi 11 Septembre 2019<br>Rubin Steiner - Girls</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgB_DVdIZWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+
+<br /><br />
 
 <p><strong>Mardi 10 Septembre 2019<br>Jain - All My Days</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
