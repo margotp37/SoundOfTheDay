@@ -1,5 +1,5 @@
 <!------------------------- NOTICE -------------------------->
-<p>3 fois par semaine, retrouvez la selection musicale.</p>
+<p>Du lundi au vendredi, retrouvez la selection musicale.</p>
 <!------------------------- POPUP -------------------------->
 <html>
 <head>
