@@ -63,6 +63,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Septembre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=Ma7lyfYzIw8" target="_blank"> 2019_09_12 // Daniel Johnston - True Love Will Find You In The End</a></p>
 <p><a href="https://www.youtube.com/watch?v=JgB_DVdIZWs" target="_blank"> 2019_09_11 // Rubin Steiner - Girls</a></p>
 <p><a href="https://www.youtube.com/watch?v=bt1PfbtohSo" target="_blank"> 2019_09_10 // Jain - All My Days</a></p>
  <p><a href="https://www.youtube.com/watch?v=BGHlZwMYO9g" target="_blank"> 2019_09_09 // Gojira - L'Enfant Sauvage</a></p>
@@ -136,6 +137,18 @@ window.onclick = function(event) {
 
 <br />
 <center>
+
+<p><strong>Vendredi 13 Septembre 2019<br>Borderlands 3 - Official Trailer Song (GRiZ ft. Tash Neal - Can't Hold Me Down) - Dispo ici : https://cutt.ly/dwFCDNy</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OaC0Uhb7Yq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+
+<br /><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OaC0Uhb7Yq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><strong>Jeudi 12 Septembre 2019 - Hommage<br>Daniel Johnston - True Love Will Find You In The End</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
