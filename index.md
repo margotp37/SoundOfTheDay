@@ -148,8 +148,6 @@ window.onclick = function(event) {
 
 
 <br /><br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OaC0Uhb7Yq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <p><strong>Jeudi 12 Septembre 2019 - Hommage<br>Daniel Johnston - True Love Will Find You In The End</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ma7lyfYzIw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
