@@ -140,38 +140,6 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<!---vendredi---!><p><strong>Vendredi 13 Septembre 2019<br>Borderlands 3 - Official Trailer Song (GRiZ ft. Tash Neal - Can't Hold Me Down)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br /><!---vendredi---!>
-  
-<!---vendredi---!><iframe width="560" height="315" src="https://www.youtube.com/embed/OaC0Uhb7Yq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><!---vendredi---!>
-  
-<!---vendredi---!>  <br><!---vendredi---!>
-
-<!---vendredi---!><p>Bonne écoute ;)</p><!---vendredi---!>
-
-
-<!---jeudi---!><br /><br /><!---jeudi---!>
-<!---jeudi---!><p><strong>Jeudi 12 Septembre 2019 - Hommage<br>Daniel Johnston - True Love Will Find You In The End</strong><!---jeudi---!><!---jeudi---!><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br /><!---jeudi---!>
-  
-<!---jeudi---!><iframe width="560" height="315" src="https://www.youtube.com/embed/Ma7lyfYzIw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><!---jeudi---!>
-  
-<!---jeudi---!>  <br><!---jeudi---!>
-
-<!---jeudi---!><p>Bonne écoute ;)</p><!---jeudi---!>
-
-
-<!---jeudi---!><br /><br /><!---jeudi---!>
-
-<!---mercredi---!><p><strong>Mercredi 11 Septembre 2019<br>Rubin Steiner - Girls</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br /><!---mercredi---!>
-  
-<!---mercredi---!><iframe width="560" height="315" src="https://www.youtube.com/embed/JgB_DVdIZWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><!---mercredi---!>
-  
-<!---mercredi---!>  <br><!---mercredi---!>
-
-<!---mercredi---!><p>Bonne écoute ;)</p><!---mercredi---!>
-
-
-<!---mercredi---!><br /><br /><!---mercredi---!>
-
 <p><strong>Mardi 17 Septembre 2019<br>Archive - Again (Long Version)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkhY4YXX6x4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
