@@ -140,6 +140,29 @@ window.onclick = function(event) {
 <br />
 <center>
 
+
+<p><strong>Jeudi 19 Septembre 2019<br>Viagra Boys - Sports</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QjL7D33xpS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+
+<br /><br />
+
+<p><strong>Mercredi 18 Septembre 2019<br>Kongos - Come With Me Now</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gz2GVlQkn4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+
+<br /><br />
+
 <p><strong>Mardi 17 Septembre 2019<br>Archive - Again (Long Version)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkhY4YXX6x4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
