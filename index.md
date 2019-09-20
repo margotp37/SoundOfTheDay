@@ -150,14 +150,6 @@ window.onclick = function(event) {
 
 <p>Bonne écoute ;)</p>
 
-
-<br /><br />
-  
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-
 <br /><br />
 
 <p><strong>Jeudi 19 Septembre 2019<br>Viagra Boys - Sports</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
