@@ -63,6 +63,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Septembre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=tgM5GrhK1l8" target="_blank"> 2019_09_20 // Pauline Croze - T'es Beau</a></p>
+<p><a href="https://www.youtube.com/watch?v=QjL7D33xpS4" target="_blank"> 2019_09_19 // Viagra Boys - Sports</a></p>
+<p><a href="https://www.youtube.com/watch?v=Gz2GVlQkn4Q" target="_blank"> 2019_09_17 // KONGOS - Come With Me Now</a></p>
+<p><a href="https://www.youtube.com/embed/EkhY4YXX6x4" target="_blank"> 2019_09_17 // Archive - Again (Long Version)</a></p>
 <p><a href="https://www.youtube.com/watch?v=EHHX2WLD6-o" target="_blank"> 2019_09_16 // Novo Talos - Carry On</a></p>
 <p><a href="https://www.youtube.com/watch?v=OaC0Uhb7Yq8" target="_blank"> 2019_09_13 // Borderlands 3 - Official Trailer Song (GRiZ ft. Tash Neal - Can't Hold Me Down)</a></p>
 <p><a href="https://www.youtube.com/watch?v=Ma7lyfYzIw8" target="_blank"> 2019_09_12 // Daniel Johnston - True Love Will Find You In The End</a></p>
@@ -140,9 +144,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 20 Septembre 2019<br>Pauline Croze - T'es Beau</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 23 Septembre 2019<br>Flower Of Scotland - Hymne Officiel Ecossais</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tgM5GrhK1l8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Hotgyw4wOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
@@ -151,46 +155,6 @@ window.onclick = function(event) {
 
 <br /><br />
 
-
-<p><strong>Jeudi 19 Septembre 2019<br>Viagra Boys - Sports</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QjL7D33xpS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-
-<br /><br />
-
-<p><strong>Mercredi 18 Septembre 2019<br>Kongos - Come With Me Now</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gz2GVlQkn4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-
-<br /><br />
-
-<p><strong>Mardi 17 Septembre 2019<br>Archive - Again (Long Version)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EkhY4YXX6x4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-
-<br /><br /><p><strong>Lundi 16 Septembre 2019<br>Novo Talos - Carry On</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EHHX2WLD6-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br>
-
-<p>Bonne écoute ;)</p>
-<br /><br />
 
 
  <!---------------------------- Suggestion -------------------------->
