@@ -144,6 +144,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mardi 24 Septembre 2019<br>Vad Hände Med Dem ? - The Brian Jonestown Massacre</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TpXySrpFLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Lundi 23 Septembre 2019<br>Flower Of Scotland - Hymne Officiel Ecossais</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Hotgyw4wOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
