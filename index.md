@@ -144,9 +144,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 27 Septembre 2019<br>Guts - Come Closer</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Vendredi 27 Septembre 2019<br>Polémix et la voix off - Mes chers potes (Jacques Chirac)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1p2-O2jVhPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RsDmqkE0oOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
