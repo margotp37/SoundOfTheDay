@@ -144,7 +144,18 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 26 Septembre<br>4 Non Blondes - What's Up</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Vendredi 27 Septembre 2019<br>Guts - Come Closer</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1p2-O2jVhPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
+<p><strong>Jeudi 26 Septembre 2019<br>4 Non Blondes - What's Up</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6NXnxTNIWkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -155,7 +166,7 @@ window.onclick = function(event) {
 
 <br /><br />
 
-<p><strong>Mercredi 25 Septembre<br>The National - Runaway</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Mercredi 25 Septembre 2019<br>The National - Runaway</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxT9v8reXB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
