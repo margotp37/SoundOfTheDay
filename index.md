@@ -63,6 +63,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Septembre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=RsDmqkE0oOE" target="_blank"> 2019_09_27 // Polémix et la voix off - Mes chers potes (Jacques Chirac)</a></p>
+<p><a href="https://www.youtube.com/watch?v=6NXnxTNIWkc" target="_blank"> 2019_09_26 // 4 Non Blondes - What's Up</a></p>
+<p><a href="https://www.youtube.com/watch?v=LxT9v8reXB0" target="_blank"> 2019_09_25 // The National - Runaway</a></p>
+<p><a href="https://www.youtube.com/watch?v=4TpXySrpFLA" target="_blank"> 2019_09_24 // Vad Hände Med Dem ? - The Brian Jonestown Massacre</a></p>
+<p><a href="https://www.youtube.com/watch?v=1Hotgyw4wOk" target="_blank"> 2019_09_23 // Flower Of Scotland - Hymne Officiel Ecossais</a></p>
 <p><a href="https://www.youtube.com/watch?v=tgM5GrhK1l8" target="_blank"> 2019_09_20 // Pauline Croze - T'es Beau</a></p>
 <p><a href="https://www.youtube.com/watch?v=QjL7D33xpS4" target="_blank"> 2019_09_19 // Viagra Boys - Sports</a></p>
 <p><a href="https://www.youtube.com/watch?v=Gz2GVlQkn4Q" target="_blank"> 2019_09_17 // KONGOS - Come With Me Now</a></p>
@@ -144,53 +149,11 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 27 Septembre 2019<br>Polémix et la voix off - Mes chers potes (Jacques Chirac)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+
+
+<p><strong>Lundi 30 Septembre 2019<br>Queens Of The Stone Age – Make It Wit Chu (Virgin Magnetic Material Remix)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RsDmqkE0oOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Jeudi 26 Septembre 2019<br>4 Non Blondes - What's Up</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6NXnxTNIWkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 25 Septembre 2019<br>The National - Runaway</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxT9v8reXB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 24 Septembre 2019<br>Vad Hände Med Dem ? - The Brian Jonestown Massacre</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4TpXySrpFLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 23 Septembre 2019<br>Flower Of Scotland - Hymne Officiel Ecossais</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Hotgyw4wOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hg14Ocs03xA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
