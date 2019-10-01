@@ -149,7 +149,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mardi 01 Octobre 2019<br>The Full Dustin and Suzie NeverEnding Story Scene | Stranger Things S3</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5HQ1sZseKg?start=87" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
 
 <p><strong>Lundi 30 Septembre 2019<br>Queens Of The Stone Age – Make It Wit Chu (Virgin Magnetic Material Remix)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
