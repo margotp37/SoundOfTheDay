@@ -149,6 +149,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 03 Octobre 2019<br>Temples - Hot Motion</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EpzCM3ozg-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mercredi 02 Octobre 2019<br>Wu-Tang Clan - C.R.E.A.M.</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBwAxmrE194" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
