@@ -60,9 +60,21 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span><center>
       <!-------------------------SPOILER----------------------->
 
+<details><summary>Octobre 2019</summary>
+<p>
+
+<p><a href="https://www.youtube.com/watch?v=1adlvF0Jqt0" target="_blank"> 2019_10_04 // Sworn Virgins - Burning off My Clothes</a></p>
+<p><a href="https://www.youtube.com/watch?v=EpzCM3ozg-8" target="_blank"> 2019_10_03 // Temples - Hot Motion</a></p>
+ <p><a href="https://www.youtube.com/watch?v=PBwAxmrE194" target="_blank"> 2019_10_02 // Wu-Tang Clan - C.R.E.A.M.</a></p>
+ <p><a href="https://www.youtube.com/watch?v=O5HQ1sZseKg" target="_blank"> 2019_10_01 // The Full Dustin and Suzie NeverEnding Story Scene | Stranger Things S3</a></p>
+
+</p>
+</details>
+
 <details><summary>Septembre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=hg14Ocs03xA" target="_blank"> 2019_09_30 // Queens Of The Stone Age – Make It Wit Chu (Virgin Magnetic Material Remix)</a></p>
 <p><a href="https://www.youtube.com/watch?v=RsDmqkE0oOE" target="_blank"> 2019_09_27 // Polémix et la voix off - Mes chers potes (Jacques Chirac)</a></p>
 <p><a href="https://www.youtube.com/watch?v=6NXnxTNIWkc" target="_blank"> 2019_09_26 // 4 Non Blondes - What's Up</a></p>
 <p><a href="https://www.youtube.com/watch?v=LxT9v8reXB0" target="_blank"> 2019_09_25 // The National - Runaway</a></p>
@@ -149,53 +161,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 04 Octobre 2019<br>Sworn Virgins - Burning off My Clothes</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 07 Octobre 2019<br>Ted Nugent - Stranglehold</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1adlvF0Jqt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Jeudi 03 Octobre 2019<br>Temples - Hot Motion</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EpzCM3ozg-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 02 Octobre 2019<br>Wu-Tang Clan - C.R.E.A.M.</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PBwAxmrE194" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 01 Octobre 2019<br>The Full Dustin and Suzie NeverEnding Story Scene | Stranger Things S3</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5HQ1sZseKg?start=87" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 30 Septembre 2019<br>Queens Of The Stone Age – Make It Wit Chu (Virgin Magnetic Material Remix)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hg14Ocs03xA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0c3d7QgZr7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
