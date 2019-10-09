@@ -173,7 +173,7 @@ window.onclick = function(event) {
 
 <br /><br />
 
-<p><strong>Mardi 08 Octobre 2019<br>// Maintenance du serveur //</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Mardi 08 Octobre 2019<br>// Maintenance du serveur //</strong><br><br /> <br />
   
 -
 
