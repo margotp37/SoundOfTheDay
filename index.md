@@ -161,8 +161,18 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 10 Octobre 2019<br>VALNTN - Moan (feat. Trevor Dering)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KQbyjgfHBTs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><strong>Mercredi 09 Octobre 2019<br>Beyonce - Yonce/Partition</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
+<p><strong>Mercredi 09 Octobre 2019<br>Beyonce - Partition</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IsVE8zwld28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
