@@ -161,6 +161,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Vendredi 11 Octobre 2019<br>Ben Mazué, Pomme - J'attends (Clip officiel)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jz6GoGKyQVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Jeudi 10 Octobre 2019<br>VALNTN - Moan (feat. Trevor Dering)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KQbyjgfHBTs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
