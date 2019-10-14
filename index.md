@@ -63,6 +63,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Octobre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=Jz6GoGKyQVM" target="_blank"> 2019_10_11 // Ben Mazué, Pomme - J'attends</a></p>
+<p><a href="https://www.youtube.com/watch?v=KQbyjgfHBTs target="_blank"> 2019_10_10 // VALNTN - Moan (feat. Trevor Dering)</a></p>
+<p><a href="https://www.youtube.com/watch?v=IsVE8zwld28" target="_blank"> 2019_10_09 // Beyonce - Partition</a></p>
+<p><a href="-" target="_blank"> 2019_10_08 // Intranet en maintenance</a></p>
+<p><a href="https://www.youtube.com/watch?v=0c3d7QgZr7g" target="_blank"> 2019_10_07 // Ted Nugent - Stranglehold</a></p>
 <p><a href="https://www.youtube.com/watch?v=1adlvF0Jqt0" target="_blank"> 2019_10_04 // Sworn Virgins - Burning off My Clothes</a></p>
 <p><a href="https://www.youtube.com/watch?v=EpzCM3ozg-8" target="_blank"> 2019_10_03 // Temples - Hot Motion</a></p>
  <p><a href="https://www.youtube.com/watch?v=PBwAxmrE194" target="_blank"> 2019_10_02 // Wu-Tang Clan - C.R.E.A.M.</a></p>
@@ -161,46 +166,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 11 Octobre 2019<br>Ben Mazué, Pomme - J'attends (Clip officiel)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 14 Octobre 2019<br>Agar Agar - You're High</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jz6GoGKyQVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Jeudi 10 Octobre 2019<br>VALNTN - Moan (feat. Trevor Dering)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KQbyjgfHBTs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 09 Octobre 2019<br>Beyonce - Partition</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IsVE8zwld28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 08 Octobre 2019<br>// Maintenance du serveur //</strong><br><br /> <br />
-
-<br /><br />
-
-<p><strong>Lundi 07 Octobre 2019<br>Ted Nugent - Stranglehold</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0c3d7QgZr7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4tPqLLexSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
