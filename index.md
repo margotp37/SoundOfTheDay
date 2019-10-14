@@ -64,9 +64,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <p>
 
 <p><a href="https://www.youtube.com/watch?v=Jz6GoGKyQVM" target="_blank"> 2019_10_11 // Ben Mazué, Pomme - J'attends</a></p>
-<p><a href="https://www.youtube.com/watch?v=KQbyjgfHBTs target="_blank"> 2019_10_10 // VALNTN - Moan (feat. Trevor Dering)</a></p>
+<p><a href="https://www.youtube.com/watch?v=KQbyjgfHBTs" target="_blank"> 2019_10_10 // VALNTN - Moan (feat. Trevor Dering)</a></p>
 <p><a href="https://www.youtube.com/watch?v=IsVE8zwld28" target="_blank"> 2019_10_09 // Beyonce - Partition</a></p>
-<p><a href="-" target="_blank"> 2019_10_08 // Intranet en maintenance</a></p>
+<p>2019_10_08 // Intranet en maintenance</a></p>
 <p><a href="https://www.youtube.com/watch?v=0c3d7QgZr7g" target="_blank"> 2019_10_07 // Ted Nugent - Stranglehold</a></p>
 <p><a href="https://www.youtube.com/watch?v=1adlvF0Jqt0" target="_blank"> 2019_10_04 // Sworn Virgins - Burning off My Clothes</a></p>
 <p><a href="https://www.youtube.com/watch?v=EpzCM3ozg-8" target="_blank"> 2019_10_03 // Temples - Hot Motion</a></p>
