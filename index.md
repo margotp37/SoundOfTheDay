@@ -166,6 +166,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 17 Octobre 2019<br>The Dø - Miracles (Back In Time)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JU-fMwjnObQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mercredi 16 Octobre 2019<br>Sufjan Stevens, "Fourth Of July" (Official Audio)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JTeKpWp8Psw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
