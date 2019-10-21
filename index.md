@@ -63,6 +63,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Octobre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=JU-fMwjnObQ" target="_blank"> 2019_10_17 // The Dø - Miracles (Back In Time)</a></p>
+<p><a href="https://www.youtube.com/watch?v=JTeKpWp8Psw" target="_blank"> 2019_10_16 // Sufjan Stevens, "Fourth Of July" (Official Audio)</a></p>
+<p><a href="https://www.youtube.com/watch?v=tBN0QkwEh7k" target="_blank"> 2019_10_15 // Peter Kernel — It's Gonna Be Great</a></p>
+<p><a href="https://www.youtube.com/watch?v=b4tPqLLexSs" target="_blank"> 2019_10_14 // Agar Agar - You're High</a></p>
 <p><a href="https://www.youtube.com/watch?v=Jz6GoGKyQVM" target="_blank"> 2019_10_11 // Ben Mazué, Pomme - J'attends</a></p>
 <p><a href="https://www.youtube.com/watch?v=KQbyjgfHBTs" target="_blank"> 2019_10_10 // VALNTN - Moan (feat. Trevor Dering)</a></p>
 <p><a href="https://www.youtube.com/watch?v=IsVE8zwld28" target="_blank"> 2019_10_09 // Beyonce - Partition</a></p>
@@ -166,42 +170,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 17 Octobre 2019<br>The Dø - Miracles (Back In Time)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 21 Octobre 2019<br>Rone - Brest</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JU-fMwjnObQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 16 Octobre 2019<br>Sufjan Stevens, "Fourth Of July" (Official Audio)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JTeKpWp8Psw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 15 Octobre 2019<br>Peter Kernel — It's Gonna Be Great</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tBN0QkwEh7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 14 Octobre 2019<br>Agar Agar - You're High</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b4tPqLLexSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mdzy5RKn434" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
