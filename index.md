@@ -170,6 +170,28 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mercredi 23 Octobre 2019<br>CABADZI • BOUCHE •</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LFzzgTCsw7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
+<p><strong>Mardi 22 Octobre 2019<br>-</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+-
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Lundi 21 Octobre 2019<br>Rone - Brest</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mdzy5RKn434" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
