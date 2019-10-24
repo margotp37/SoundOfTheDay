@@ -170,6 +170,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 24 Octobre 2019<br>Twin Peaks (1990-1991) - Original Soundtrack 2016 Vinyl Remaster</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDbSYAJ9Tvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mercredi 23 Octobre 2019<br>CABADZI • BOUCHE •</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LFzzgTCsw7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
