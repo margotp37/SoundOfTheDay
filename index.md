@@ -63,6 +63,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Octobre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=wDbSYAJ9Tvw" target="_blank"> 2019_10_24 // Twin Peaks (1990-1991) - Original Soundtrack 2016 Vinyl Remaster 
+<p><a href="https://www.youtube.com/watch?v=LFzzgTCsw7o" target="_blank"> 2019_10_23 // CABADZI • BOUCHE • 
+<p><a href="https://www.youtube.com/watch?v=Mdzy5RKn434" target="_blank"> 2019_10_21 // Rone - Brest 
 <p><a href="https://www.youtube.com/watch?v=JU-fMwjnObQ" target="_blank"> 2019_10_17 // The Dø - Miracles (Back In Time)</a></p>
 <p><a href="https://www.youtube.com/watch?v=JTeKpWp8Psw" target="_blank"> 2019_10_16 // Sufjan Stevens, "Fourth Of July" (Official Audio)</a></p>
 <p><a href="https://www.youtube.com/watch?v=tBN0QkwEh7k" target="_blank"> 2019_10_15 // Peter Kernel — It's Gonna Be Great</a></p>
@@ -170,50 +173,14 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 24 Octobre 2019<br>Twin Peaks (1990-1991) - Original Soundtrack 2016 Vinyl Remaster</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 28 Octobre 2019<br>PLACEBO - 'Protege Moi' (Official Audio)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wDbSYAJ9Tvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78gnqecSEw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
 
 <p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 23 Octobre 2019<br>CABADZI • BOUCHE •</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LFzzgTCsw7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 22 Octobre 2019<br>-</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
--
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 21 Octobre 2019<br>Rone - Brest</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mdzy5RKn434" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
 
 
  <!---------------------------- Suggestion -------------------------->
