@@ -64,8 +64,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <p>
 
 <p><a href="https://www.youtube.com/watch?v=wDbSYAJ9Tvw" target="_blank"> 2019_10_24 // Twin Peaks (1990-1991) - Original Soundtrack 2016 Vinyl Remaster</a></p>
-<p><a href="https://www.youtube.com/watch?v=LFzzgTCsw7o" target="_blank"> 2019_10_23 // CABADZI • BOUCHE • 
-<p><a href="https://www.youtube.com/watch?v=Mdzy5RKn434" target="_blank"> 2019_10_21 // Rone - Brest 
+<p><a href="https://www.youtube.com/watch?v=LFzzgTCsw7o" target="_blank"> 2019_10_23 // CABADZI • BOUCHE •</a></p>
+<p><a href="https://www.youtube.com/watch?v=Mdzy5RKn434" target="_blank"> 2019_10_21 // Rone - Brest</a></p>
 <p><a href="https://www.youtube.com/watch?v=JU-fMwjnObQ" target="_blank"> 2019_10_17 // The Dø - Miracles (Back In Time)</a></p>
 <p><a href="https://www.youtube.com/watch?v=JTeKpWp8Psw" target="_blank"> 2019_10_16 // Sufjan Stevens, "Fourth Of July" (Official Audio)</a></p>
 <p><a href="https://www.youtube.com/watch?v=tBN0QkwEh7k" target="_blank"> 2019_10_15 // Peter Kernel — It's Gonna Be Great</a></p>
