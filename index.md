@@ -60,9 +60,19 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span><center>
       <!-------------------------SPOILER----------------------->
 
+<details><summary>Novembre 2019</summary>
+<p>
+  --- --- ---
+</p>
+</details>  
+
 <details><summary>Octobre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=kGiYxCUAhks" target="_blank"> 2019_10_31 // The Nightmare Before Christmas - This is halloween</a></p>
+<p><a href="https://www.youtube.com/watch?v=Wv2rLZmbPMA" target="_blank"> 2019_10_30 // Ed Sheeran - Dive</a></p>
+<p><a href="https://www.youtube.com/watch?v=jzl3GQcVpZ4" target="_blank"> 2019_10_29 // Deluxe - Get Down</a></p>
+<p><a href="https://www.youtube.com/watch?v=78gnqecSEw8" target="_blank"> 2019_10_28 // PLACEBO - 'Protege Moi' (Official Audio)</a></p>
 <p><a href="https://www.youtube.com/watch?v=wDbSYAJ9Tvw" target="_blank"> 2019_10_24 // Twin Peaks (1990-1991) - Original Soundtrack 2016 Vinyl Remaster</a></p>
 <p><a href="https://www.youtube.com/watch?v=LFzzgTCsw7o" target="_blank"> 2019_10_23 // CABADZI • BOUCHE •</a></p>
 <p><a href="https://www.youtube.com/watch?v=Mdzy5RKn434" target="_blank"> 2019_10_21 // Rone - Brest</a></p>
@@ -173,9 +183,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 31 Octobre 2019<br>The Nightmare Before Christmas - This is halloween</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 04 Novembre 2019<br>Arctic Monkeys - Crying Lightning</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kGiYxCUAhks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fLsBJPlGIDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
@@ -184,38 +194,6 @@ window.onclick = function(event) {
 
 <br /><br />
 
-<p><strong>Mercredi 30 Octobre 2019<br>Ed Sheeran - Dive</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wv2rLZmbPMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 29 Octobre 2019<br>Deluxe - Get Down</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jzl3GQcVpZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 28 Octobre 2019<br>PLACEBO - 'Protege Moi' (Official Audio)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/78gnqecSEw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
 
  <!---------------------------- Suggestion -------------------------->
  <!----------------------------Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day">C'est ici !</a>
