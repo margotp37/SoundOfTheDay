@@ -62,7 +62,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Novembre 2019</summary>
 <p>
-  --- --- ---
+<p><a href="https://www.youtube.com/watch?v=nl90JbDn9pg&feature=emb_title" target="_blank"> 2019_11_07 // ELEPHANZ - Maryland</a></p>
+<p><a href="https://www.youtube.com/watch?v=RrxePKps87k&feature=emb_title" target="_blank"> 2019_11_06 // Nick Cave & The Bad Seeds - Red Right Hand</a></p>
+<p><a href="https://www.youtube.com/watch?v=rQ4Cd2bI-z4&feature=emb_title" target="_blank"> 2019_11_05 // Action Bronson - The Choreographer</a></p>
+<p><a href="https://www.youtube.com/watch?v=fLsBJPlGIDU&feature=emb_title" target="_blank"> 2019_11_04 // Arctic Monkeys - Crying Lightning</a></p>
 </p>
 </details>  
 
@@ -183,42 +186,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 07 Novembre 2019<br>ELEPHANZ - Maryland</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Mardi 12 Novembre 2019<br>Patience - Nas & Damian "Jr. Gong" Marley</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nl90JbDn9pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 06 Novembre 2019<br>Nick Cave & The Bad Seeds - Red Right Hand</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RrxePKps87k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 05 Novembre 2019<br>Action Bronson - The Choreographer</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rQ4Cd2bI-z4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 04 Novembre 2019<br>Arctic Monkeys - Crying Lightning</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fLsBJPlGIDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c9VQye6P8k0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
