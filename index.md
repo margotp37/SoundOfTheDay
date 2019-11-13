@@ -186,6 +186,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mercredi 13 Novembre 2019<br>Fkj & Masego - Tadow</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hC8CH0Z3L54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mardi 12 Novembre 2019<br>Patience - Nas & Damian "Jr. Gong" Marley</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c9VQye6P8k0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
