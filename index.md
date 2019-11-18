@@ -189,7 +189,7 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Lundi 18 Novembre 2019<br>City and Colour - If I Should Go Before You (Live in Truro, NS May 4th, 2017)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 18 Novembre 2019<br>City and Colour - If I Should Go Before You (Live in Truro, NS May 4th, 2017)</strong><br>On ferme les yeux et on savoure cette douceur. (Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a0cWPE99wZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
