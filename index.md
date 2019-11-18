@@ -62,6 +62,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Novembre 2019</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=qba0V6y2UPU" target="_blank"> 2019_11_14 // L'ENTOURLOOP Ft. Panda Dub - Le Bonheur</a></p>
+<p><a href="https://www.youtube.com/watch?v=hC8CH0Z3L54" target="_blank"> 2019_11_13 // Fkj & Masego - Tadow</a></p>
+<p><a href="https://www.youtube.com/watch?v=c9VQye6P8k0" target="_blank"> 2019_11_12 // Patience - Nas & Damian "Jr. Gong" Marley</a></p>
 <p><a href="https://www.youtube.com/watch?v=nl90JbDn9pg&feature=emb_title" target="_blank"> 2019_11_07 // ELEPHANZ - Maryland</a></p>
 <p><a href="https://www.youtube.com/watch?v=RrxePKps87k&feature=emb_title" target="_blank"> 2019_11_06 // Nick Cave & The Bad Seeds - Red Right Hand</a></p>
 <p><a href="https://www.youtube.com/watch?v=rQ4Cd2bI-z4&feature=emb_title" target="_blank"> 2019_11_05 // Action Bronson - The Choreographer</a></p>
@@ -186,31 +189,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 14 Novembre 2019<br>L'ENTOURLOOP Ft. Panda Dub - Le Bonheur</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 18 Novembre 2019<br>City and Colour - If I Should Go Before You (Live in Truro, NS May 4th, 2017)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qba0V6y2UPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 13 Novembre 2019<br>Fkj & Masego - Tadow</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hC8CH0Z3L54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 12 Novembre 2019<br>Patience - Nas & Damian "Jr. Gong" Marley</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c9VQye6P8k0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a0cWPE99wZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
   <br>
