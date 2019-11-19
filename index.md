@@ -189,6 +189,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mardi 19 Novembre 2019<br>BlackHill & Silent Island - A wild river to take you home</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fIS1foqEs-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Lundi 18 Novembre 2019<br>City and Colour - If I Should Go Before You (Live in Truro, NS May 4th, 2017)</strong><br>On ferme les yeux et on savoure cette douceur. (Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a0cWPE99wZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
