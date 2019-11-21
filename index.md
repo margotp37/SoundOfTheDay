@@ -189,6 +189,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 21 Novembre 2019<br>Let Me Go ! - Erik Truffaz & Sophie Hunger</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T5UrjJG0qDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mercredi 20 Novembre 2019<br>Neil Young - On the Beach (2016 Remaster)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C9CkvAQkQLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -211,9 +222,9 @@ window.onclick = function(event) {
 
 <br /><br />
 
-<p><strong>Lundi 18 Novembre 2019<br>City and Colour - If I Should Go Before You (Live in Truro, NS May 4th, 2017)</strong><br>On ferme les yeux et on savoure cette douceur. (Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<img src="https://images.emojiterra.com/google/android-10/128px/2764.png" alt="Android Pie; U+2764 U+FE0F; Emoji" width="20px" height="20px"><p><strong>Lundi 18 Novembre 2019<br>City and Colour - If I Should Go Before You (Live in Truro, NS May 4th, 2017)</strong><br>On ferme les yeux et on savoure cette douceur. (Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a0cWPE99wZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a0cWPE99wZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><img src="https://images.emojiterra.com/google/android-10/128px/2764.png" alt="Android Pie; U+2764 U+FE0F; Emoji" width="20px" height="20px">
 
  
   <br>
