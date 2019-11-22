@@ -189,6 +189,17 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Vendredi 22 Novembre 2019<br>Run The Jewels - Talk To Me</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1b9n0Amr9RI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Jeudi 21 Novembre 2019<br>Let Me Go ! - Erik Truffaz & Sophie Hunger</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T5UrjJG0qDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
