@@ -62,6 +62,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Novembre 2019</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=1b9n0Amr9RI" target="_blank"> 2019_11_22 // Run The Jewels - Talk To Me</a></p>  
+<p><a href="https://www.youtube.com/watch?v=T5UrjJG0qDs" target="_blank"> 2019_11_21 // Let Me Go ! - Erik Truffaz & Sophie Hunger</a></p>  
+<p><a href="https://www.youtube.com/watch?v=C9CkvAQkQLs" target="_blank"> 2019_11_20 // Neil Young - On the Beach (2016 Remaster)</a></p>  
+<p><a href="https://www.youtube.com/watch?v=fIS1foqEs-Y" target="_blank"> 2019_11_19 // BlackHill & Silent Island - A wild river to take you home</a></p>  
+<p><a href="https://www.youtube.com/watch?v=a0cWPE99wZg" target="_blank"> 2019_11_18 // <img src="https://images.emojiterra.com/google/android-10/128px/2764.png" alt="Android Pie; U+2764 U+FE0F; Emoji" width="20px" height="20px"> City and Colour - If I Should Go Before You (Live in Truro, NS May 4th, 2017) <img src="https://images.emojiterra.com/google/android-10/128px/2764.png" alt="Android Pie; U+2764 U+FE0F; Emoji" width="20px" height="20px"></a></p>  
 <p><a href="https://www.youtube.com/watch?v=qba0V6y2UPU" target="_blank"> 2019_11_14 // L'ENTOURLOOP Ft. Panda Dub - Le Bonheur</a></p>
 <p><a href="https://www.youtube.com/watch?v=hC8CH0Z3L54" target="_blank"> 2019_11_13 // Fkj & Masego - Tadow</a></p>
 <p><a href="https://www.youtube.com/watch?v=c9VQye6P8k0" target="_blank"> 2019_11_12 // Patience - Nas & Damian "Jr. Gong" Marley</a></p>
@@ -226,6 +231,17 @@ window.onclick = function(event) {
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fIS1foqEs-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
+
+<p><strong>Lundi 25 Novembre 2019<br>Connie Francis : Where The Boys Are</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqgl0VRJW0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
