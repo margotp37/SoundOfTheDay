@@ -194,6 +194,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mercredi 27 Novembre 2019<br>Maurice Ravel - Bolero (by the Chicago Symphony Orchestra, 1976)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7eQ-VI7zIzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mardi 26 Novembre 2019<br>Lesley Gore - You Don't Own Me (1964)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNb-8gLcXLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
