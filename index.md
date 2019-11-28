@@ -194,6 +194,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 28 Novembre 2019<br>Les Sales Majestés - PP Haine</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vuebn6eClEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mercredi 27 Novembre 2019<br>Maurice Ravel - Bolero (by the Chicago Symphony Orchestra, 1976)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7eQ-VI7zIzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
