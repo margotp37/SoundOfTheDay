@@ -62,6 +62,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Novembre 2019</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=vuebn6eClEY" target="_blank"> 2019_11_28 // Les Sales Majestés - PP Haine</a></p>  
+<p><a href="https://www.youtube.com/watch?v=7eQ-VI7zIzQ" target="_blank"> 2019_11_27 // Maurice Ravel - Bolero (by the Chicago Symphony Orchestra, 1976)</a></p>  
+<p><a href="https://www.youtube.com/watch?v=vNb-8gLcXLs" target="_blank"> 2019_11_26 // Lesley Gore - You Don't Own Me (1964)</a></p>
+<p><a href="https://www.youtube.com/watch?v=cqgl0VRJW0E" target="_blank"> 2019_11_25 // Connie Francis : Where The Boys Are</a></p>  
 <p><a href="https://www.youtube.com/watch?v=1b9n0Amr9RI" target="_blank"> 2019_11_22 // Run The Jewels - Talk To Me</a></p>  
 <p><a href="https://www.youtube.com/watch?v=T5UrjJG0qDs" target="_blank"> 2019_11_21 // Let Me Go ! - Erik Truffaz & Sophie Hunger</a></p>  
 <p><a href="https://www.youtube.com/watch?v=C9CkvAQkQLs" target="_blank"> 2019_11_20 // Neil Young - On the Beach (2016 Remaster)</a></p>  
@@ -194,46 +198,15 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 28 Novembre 2019<br>Les Sales Majestés - PP Haine</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 02 Décembre<br>Michael Bublé - It's Beginning To Look A Lot Like Christmas</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vuebn6eClEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QJ5DOWPGxwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
 <p>Bonne écoute ;)</p>
 
 <br /><br />
-
-<p><strong>Mercredi 27 Novembre 2019<br>Maurice Ravel - Bolero (by the Chicago Symphony Orchestra, 1976)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7eQ-VI7zIzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 26 Novembre 2019<br>Lesley Gore - You Don't Own Me (1964)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vNb-8gLcXLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 25 Novembre 2019<br>Connie Francis : Where The Boys Are</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cqgl0VRJW0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
 
 
  <!---------------------------- Suggestion -------------------------->
