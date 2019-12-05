@@ -198,6 +198,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 05 Décembre<br>BRENDA LEE - Rockin' Around the Christmas Tree (1960)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dxHL36aJvGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mercredi 04 Décembre<br>Mariah Carey - All I Want For Christmas Is You</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yXQViqx6GMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
