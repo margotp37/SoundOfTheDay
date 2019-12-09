@@ -60,6 +60,17 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span><center>
       <!-------------------------SPOILER----------------------->
 
+<details><summary>Décembre 2019</summary>
+<p>
+  
+<p><a href="https://www.youtube.com/watch?v=dxHL36aJvGU" target="_blank"> 2019_12_05 // BRENDA LEE - Rockin' Around the Christmas Tree (1960)</a></p>
+<p><a href="https://www.youtube.com/watch?v=yXQViqx6GMY" target="_blank"> 2019_12_04 // Mariah Carey - All I Want For Christmas Is You</a></p>
+<p><a href="https://www.youtube.com/watch?v=E8gmARGvPlI" target="_blank"> 2019_12_03 // Wham ! - Last Christmas</a></p>
+<p><a href="https://www.youtube.com/watch?v=QJ5DOWPGxwg" target="_blank"> 2019_12_02 // Michael Bublé - It's Beginning To Look A Lot Like Christmas</a></p>
+
+</p>
+</details> 
+
 <details><summary>Novembre 2019</summary>
 <p>
 <p><a href="https://www.youtube.com/watch?v=vuebn6eClEY" target="_blank"> 2019_11_28 // Les Sales Majestés - PP Haine</a></p>  
@@ -198,39 +209,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 05 Décembre<br>BRENDA LEE - Rockin' Around the Christmas Tree (1960)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 09 Décembre<br>Dean Martin - Let It Snow ! Let It Snow ! Let It Snow !</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dxHL36aJvGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 04 Décembre<br>Mariah Carey - All I Want For Christmas Is You</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yXQViqx6GMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 03 Décembre<br>Wham ! - Last Christmas</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E8gmARGvPlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 02 Décembre<br>Michael Bublé - It's Beginning To Look A Lot Like Christmas</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QJ5DOWPGxwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJ7-gqGWhis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
