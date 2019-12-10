@@ -209,6 +209,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mardi 10 Décembre<br>Andy Williams - It's The Most Wonderful Time Of The Year</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFtb3EtjEic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Lundi 09 Décembre<br>Dean Martin - Let It Snow ! Let It Snow ! Let It Snow !</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UJ7-gqGWhis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
