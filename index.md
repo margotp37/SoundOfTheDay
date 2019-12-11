@@ -209,6 +209,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mercredi 11 Décembre<br>Johnny Mathis - When a Child Is Born (from Home for Christmas)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZCqhX89WV_0?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mardi 10 Décembre<br>Andy Williams - It's The Most Wonderful Time Of The Year</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gFtb3EtjEic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
