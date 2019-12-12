@@ -209,6 +209,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 12 Décembre<br>Jingle Bell Rock - Bobby Helms (1957)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/itcMLwMEeMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mercredi 11 Décembre<br>Johnny Mathis - When a Child Is Born (from Home for Christmas)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCqhX89WV_0?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
