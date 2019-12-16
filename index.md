@@ -62,7 +62,12 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Décembre 2019</summary>
 <p>
-  
+
+<p><a href="https://www.youtube.com/watch?v=NJ6kJ7GWtv0" target="_blank"> 2019_12_13 // Mud - Lonely This Christmas</a></p>
+<p><a href="https://www.youtube.com/watch?v=itcMLwMEeMQ" target="_blank"> 2019_12_12 // Jingle Bell Rock - Bobby Helms (1957)</a></p>
+<p><a href="https://www.youtube.com/embed/ZCqhX89WV_0?start=30" target="_blank"> 2019_12_11 // Johnny Mathis - When a Child Is Born (from Home for Christmas)</a></p>
+<p><a href="https://www.youtube.com/watch?v=gFtb3EtjEic" target="_blank"> 2019_12_10 // Andy Williams - It's The Most Wonderful Time Of The Year</a></p>
+<p><a href="https://www.youtube.com/watch?v=UJ7-gqGWhis" target="_blank"> 2019_12_09 // Dean Martin - Let It Snow ! Let It Snow ! Let It Snow !</a></p>  
 <p><a href="https://www.youtube.com/watch?v=dxHL36aJvGU" target="_blank"> 2019_12_05 // BRENDA LEE - Rockin' Around the Christmas Tree (1960)</a></p>
 <p><a href="https://www.youtube.com/watch?v=yXQViqx6GMY" target="_blank"> 2019_12_04 // Mariah Carey - All I Want For Christmas Is You</a></p>
 <p><a href="https://www.youtube.com/watch?v=E8gmARGvPlI" target="_blank"> 2019_12_03 // Wham ! - Last Christmas</a></p>
@@ -209,49 +214,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 13 Décembre<br>Mud - Lonely This Christmas</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 16 Décembre<br>Jackson 5 - Santa Claus Is Comin' To Town</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NJ6kJ7GWtv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Jeudi 12 Décembre<br>Jingle Bell Rock - Bobby Helms (1957)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/itcMLwMEeMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 11 Décembre<br>Johnny Mathis - When a Child Is Born (from Home for Christmas)</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZCqhX89WV_0?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 10 Décembre<br>Andy Williams - It's The Most Wonderful Time Of The Year</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gFtb3EtjEic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 09 Décembre<br>Dean Martin - Let It Snow ! Let It Snow ! Let It Snow !</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJ7-gqGWhis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmUW2pVAopc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
