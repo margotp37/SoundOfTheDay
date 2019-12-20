@@ -214,7 +214,7 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Lundi 23 et mardi 24 Décembre : pas de SoundOfTheDay.<br>Passez de très bonnes fêtes avec vos proches.</strong><br><br /> <br />
+<p><strong>Lundi 23 et mardi 24 Décembre : pas de SoundOfTheDay.<br>Passez de très bonnes fêtes, profitez de vos familles et vos proches.</strong><br><br /> <br />
 
 <p><strong>Vendredi 20 Décembre<br>Jingle Hell · Christopher Lee</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
