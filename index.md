@@ -214,6 +214,18 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Lundi 23 et mardi 24 Décembre pas de SoundOfTheDay<br>Passez de très bonnes fêtes avec vos proches.</strong><br><br /> <br />
+
+<p><strong>Vendredi 20 Décembre<br>Jingle Hell · Christopher Lee</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kfZtNVEqsBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Jeudi 19 Décembre<br>Shakin' Stevens - Merry Christmas Everyone</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZeyHl1tQeaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
