@@ -63,6 +63,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <details><summary>Décembre 2019</summary>
 <p>
 
+<p><a href="https://www.youtube.com/watch?v=kfZtNVEqsBs" target="_blank"> 2019_12_20 // Jingle Hell · Christopher Lee</a></p>
+<p><a href="https://www.youtube.com/watch?v=ZeyHl1tQeaQ" target="_blank"> 2019_12_19 // Shakin' Stevens - Merry Christmas Everyone</a></p>
+<p><a href="https://www.youtube.com/watch?v=rZCEBibnRM8" target="_blank"> 2019_12_18 // Cliff Richard - Mistletoe and Wine</a></p>
+<p><a href="https://www.youtube.com/watch?v=k1cF3NwI" target="_blank"> 2019_12_17 // Please Come Home For Chrismas - Home Alone SoundTrack</a></p>
+<p><a href="https://www.youtube.com/watch?v=gmUW2pVAopc" target="_blank"> 2019_12_16 // Jackson 5 - Santa Claus Is Comin' To Town</a></p>
 <p><a href="https://www.youtube.com/watch?v=NJ6kJ7GWtv0" target="_blank"> 2019_12_13 // Mud - Lonely This Christmas</a></p>
 <p><a href="https://www.youtube.com/watch?v=itcMLwMEeMQ" target="_blank"> 2019_12_12 // Jingle Bell Rock - Bobby Helms (1957)</a></p>
 <p><a href="https://www.youtube.com/embed/ZCqhX89WV_0?start=30" target="_blank"> 2019_12_11 // Johnny Mathis - When a Child Is Born (from Home for Christmas)</a></p>
@@ -214,51 +219,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Lundi 23 et mardi 24 Décembre : pas de SoundOfTheDay.<br>Passez de très bonnes fêtes, profitez de vos familles, proches, et amis.</strong><br><br /> <br />
-
-<p><strong>Vendredi 20 Décembre<br>Jingle Hell · Christopher Lee</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Mercredi 08 Janvier<br>DALIDA - Je reviens te chercher.</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kfZtNVEqsBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Jeudi 19 Décembre<br>Shakin' Stevens - Merry Christmas Everyone</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeyHl1tQeaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 18 Décembre<br>Cliff Richard - Mistletoe and Wine</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZCEBibnRM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 17 Décembre<br>Please Come Home For Chrismas - Home Alone SoundTrack</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k1cF3NwI6rA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 16 Décembre<br>Jackson 5 - Santa Claus Is Comin' To Town</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gmUW2pVAopc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zsHw--yfOK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
