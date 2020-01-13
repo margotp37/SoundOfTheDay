@@ -60,6 +60,14 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span><center>
       <!-------------------------SPOILER----------------------->
 
+<details><summary>Janvier 2020</summary>
+<p>
+
+<p><a href="https://www.youtube.com/watch?v=aDgmwlSDdUo" target="_blank"> 2020_01_09 // Flavia Coelho - Billy Django</a></p>
+<p><a href="https://www.youtube.com/watch?v=zsHw--yfOK0" target="_blank"> 2020_01_08 // DALIDA - Je reviens te chercher</a></p>
+
+</p>
+</details>
 <details><summary>Décembre 2019</summary>
 <p>
 
@@ -219,19 +227,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 09 Janvier<br>Flavia Coelho - Billy Django</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 13 Janvier<br>Elli Medeiros - Toi Mon Toit</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aDgmwlSDdUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 08 Janvier<br>DALIDA - Je reviens te chercher.</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zsHw--yfOK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6cuv2irrtWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
