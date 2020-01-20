@@ -62,7 +62,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Janvier 2020</summary>
 <p>
-
+<p><a href="https://www.youtube.com/watch?v=hKrAPSootn4" target="_blank"> 2020_01_14 // Radiohead - Life In a Glasshouse</a></p>
+<p><a href="https://www.youtube.com/watch?v=6cuv2irrtWQ" target="_blank"> 2020_01_13 // Elli Medeiros - Toi Mon Toit</a></p>
 <p><a href="https://www.youtube.com/watch?v=aDgmwlSDdUo" target="_blank"> 2020_01_09 // Flavia Coelho - Billy Django</a></p>
 <p><a href="https://www.youtube.com/watch?v=zsHw--yfOK0" target="_blank"> 2020_01_08 // DALIDA - Je reviens te chercher</a></p>
 
@@ -237,9 +238,9 @@ window.onclick = function(event) {
 
 <br /><br />
 
-<p><strong>Lundi 13 Janvier<br>Elli Medeiros - Toi Mon Toit</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 20 Janvier<br>Saltillo - A Hair on the Head of John the Baptist</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6cuv2irrtWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CATngmjRitI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
