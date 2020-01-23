@@ -228,6 +228,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Jeudi 23 Janvier<br>Larusso - Tu m'oublieras</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhhlsC1q4TU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mercredi 22 Janvier<br>Bronski Beat - Smalltown Boy</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/88sARuFu-tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
