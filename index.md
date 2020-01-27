@@ -62,6 +62,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Janvier 2020</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=hn3wJ1_1Zsg" target="_blank"> 2020_01_24 // ELP - Lost On You</a></p>
+<p><a href="https://www.youtube.com/watch?v=PhhlsC1q4TU" target="_blank"> 2020_01_23 // Larusso - Tu m'oublieras</a></p>  
+<p><a href="https://www.youtube.com/watch?v=88sARuFu-tc" target="_blank"> 2020_01_22 // Bronski Beat - Smalltown Boy</a></p>  
+<p><a href="https://www.youtube.com/watch?v=NYOQDnWFXYI" target="_blank"> 2020_01_21 // Billy Paul - Me and Mrs. Jones</a></p>  
+<p><a href="https://www.youtube.com/watch?v=CATngmjRitI" target="_blank"> 2020_01_20 // Saltillo - A Hair on the Head of John the Baptist</a></p>  
 <p><a href="https://www.youtube.com/watch?v=hKrAPSootn4" target="_blank"> 2020_01_14 // Radiohead - Life In a Glasshouse</a></p>
 <p><a href="https://www.youtube.com/watch?v=6cuv2irrtWQ" target="_blank"> 2020_01_13 // Elli Medeiros - Toi Mon Toit</a></p>
 <p><a href="https://www.youtube.com/watch?v=aDgmwlSDdUo" target="_blank"> 2020_01_09 // Flavia Coelho - Billy Django</a></p>
@@ -278,6 +283,16 @@ window.onclick = function(event) {
 
 <br /><br />
 
+
+<p><strong>Lundi 27 Janvier<br>Vald - Ignorant</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IpAnhDUgr3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
 
  <!---------------------------- Suggestion -------------------------->
  <!----------------------------Une suggestion ? Envie de faire découvrir un artiste/un morceau ? <a href="mailto:pierre.margot@arps.fr?subject=[Intra]%20Suggestion%20Sound%20of%20The%20Day">C'est ici !</a>
