@@ -60,8 +60,17 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span><center>
       <!-------------------------SPOILER----------------------->
 
+<details><summary>Février 2020</summary>
+<p>
+</p>
+</details>  
+
 <details><summary>Janvier 2020</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=BIpT_CAov4k" target="_blank"> 2020_01_30 // François Pérusse - Snack-Bar chez Léon</a></p>  
+<p><a href="https://www.youtube.com/watch?v=viimfQi_pUw" target="_blank"> 2020_01_29 // Billie Eilish - Ocean Eyes</a></p>  
+<p><a href="https://www.youtube.com/watch?v=AIy6X4VTWpk" target="_blank"> 2020_01_28 // Jackie Wilson - Higher & Higher</a></p>  
+<p><a href="https://www.youtube.com/watch?v=IpAnhDUgr3s" target="_blank"> 2020_01_27 // Vald - Ignorant</a></p>
 <p><a href="https://www.youtube.com/watch?v=hn3wJ1_1Zsg" target="_blank"> 2020_01_24 // ELP - Lost On You</a></p>
 <p><a href="https://www.youtube.com/watch?v=PhhlsC1q4TU" target="_blank"> 2020_01_23 // Larusso - Tu m'oublieras</a></p>  
 <p><a href="https://www.youtube.com/watch?v=88sARuFu-tc" target="_blank"> 2020_01_22 // Bronski Beat - Smalltown Boy</a></p>  
@@ -233,39 +242,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Jeudi 30 Janvier<br>François Pérusse - Snack-Bar chez Léon</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 03 Février<br>Apocalypse - Cigarettes After Sex</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BIpT_CAov4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 29 Janvier<br>Billie Eilish - Ocean Eyes</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/viimfQi_pUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 28 Janvier<br>Jackie Wilson - Higher & Higher</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AIy6X4VTWpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 27 Janvier<br>Vald - Ignorant</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IpAnhDUgr3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sElE_BfQ67s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
