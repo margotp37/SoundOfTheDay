@@ -242,6 +242,15 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Vendredi 07 Février<br>The Pirouettes - Chanter Sous Les Cocotiers</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DW9inSPeF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
 
 <p><strong>Jeudi 06 Février<br>House of Pain - Jump Around</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
