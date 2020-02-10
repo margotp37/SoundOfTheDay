@@ -247,9 +247,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Mardi 11 Février<br>Slipknot - A Liar's End</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Mardi 11 Février<br>Slipknot - A Liar's Funeral</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sElE_BfQ67s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nkYf8ylQk9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
@@ -257,7 +257,7 @@ window.onclick = function(event) {
 
 <br /><br />
 
-<p><strong>Lundi 10 Février<br>Lio - Les Brunes comptent pas pour des prunes<strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 10 Février<br>Lio - Les Brunes comptent pas pour des prunes</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkHF0xvQOok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
