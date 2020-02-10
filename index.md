@@ -62,6 +62,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Février 2020</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=6DW9inSPeF4" target="_blank"> 2020_02_07 // The Pirouettes - Chanter Sous Les Cocotiers</a></p>  
+<p><a href="https://www.youtube.com/watch?v=XhzpxjuwZy0" target="_blank"> 2020_02_06 // House of Pain - Jump Around</a></p>  
+<p><a href="https://www.youtube.com/watch?v=8eLl84iMsrQ" target="_blank"> 2020_02_05 // Billie Holiday - Solitude</a></p>  
+<p><a href="https://www.youtube.com/watch?v=kfoJUeyMsOE" target="_blank"> 2020_02_04 // Rone - Bye Bye Macadam</a></p>  
+<p><a href="https://www.youtube.com/watch?v=sElE_BfQ67s" target="_blank"> 2020_02_03 // Apocalypse - Cigarettes After Sex</a></p>  
 </p>
 </details>  
 
@@ -242,49 +247,19 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 07 Février<br>The Pirouettes - Chanter Sous Les Cocotiers</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6DW9inSPeF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Jeudi 06 Février<br>House of Pain - Jump Around</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XhzpxjuwZy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 05 Février<br>Billie Holiday - Solitude</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8eLl84iMsrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 04 Février<br>Rone - Bye Bye Macadam</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kfoJUeyMsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 03 Février<br>Apocalypse - Cigarettes After Sex</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Mardi 11 Février<br>Slipknot - A Liar's End</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sElE_BfQ67s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
+<p><strong>Lundi 10 Février<br>Lio - Les Brunes comptent pas pour des prunes<strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkHF0xvQOok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
