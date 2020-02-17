@@ -62,6 +62,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Février 2020</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=pg_YV40UI3E" target="_blank"> 2020_02_14 // Jeanne Added - Mutate</a></p>  
+<p><a href="https://www.youtube.com/watch?v=DyMMEmwFQUE" target="_blank"> 2020_02_13 // Elvin Bishop - Fooled Around and Fell in Love</a></p>  
+<p><a href="https://www.youtube.com/watch?v=nkYf8ylQk9I" target="_blank"> 2020_02_11 // Slipknot - A Liar's Funeral</a></p>  
+<p><a href="https://www.youtube.com/watch?v=hkHF0xvQOok" target="_blank"> 2020_02_10 // Lio - Les Brunes comptent pas pour des prunes</a></p>
 <p><a href="https://www.youtube.com/watch?v=6DW9inSPeF4" target="_blank"> 2020_02_07 // The Pirouettes - Chanter Sous Les Cocotiers</a></p>  
 <p><a href="https://www.youtube.com/watch?v=XhzpxjuwZy0" target="_blank"> 2020_02_06 // House of Pain - Jump Around</a></p>  
 <p><a href="https://www.youtube.com/watch?v=8eLl84iMsrQ" target="_blank"> 2020_02_05 // Billie Holiday - Solitude</a></p>  
@@ -247,39 +251,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 14 Février<br>Jeanne Added - Mutate</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 17 Février<br>Sofiane Pamart - Chicago</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pg_YV40UI3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Jeudi 13 Février<br>Elvin Bishop - Fooled Around and Fell in Love</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DyMMEmwFQUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 11 Février<br>Slipknot - A Liar's Funeral</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nkYf8ylQk9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 10 Février<br>Lio - Les Brunes comptent pas pour des prunes</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hkHF0xvQOok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQcvh-Rlnl8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
