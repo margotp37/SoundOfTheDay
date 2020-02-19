@@ -251,7 +251,7 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Mercredi 19 Février<br>City and Colour - Woman</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Mercredi 19 Février<br><img src="https://images.emojiterra.com/google/android-10/128px/2764.png" alt="Android Pie; U+2764 U+FE0F; Emoji" width="20px" height="20px">City and Colour - Woman<img src="https://images.emojiterra.com/google/android-10/128px/2764.png" alt="Android Pie; U+2764 U+FE0F; Emoji" width="20px" height="20px"></strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/or45vdE7cT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
