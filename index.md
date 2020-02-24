@@ -62,6 +62,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Février 2020</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=2Bb0k9HgQxc" target="_blank"> 2020_02_21 // Max Richter - November</a></p>
+<p><a href="https://www.youtube.com/watch?v=AFap6ff9ssk" target="_blank"> 2020_02_20 // Brigitte - Monsieur je t'aime</a></p>
+<p><a href="https://www.youtube.com/watch?v=or45vdE7cT8" target="_blank"> 2020_02_19 // City and Colour - Woman</a></p>
+<p><a href="https://www.youtube.com/watch?v=JGryMDNt3p" target="_blank"> 2020_02_18 // Into My Arms - Band of Horses</a></p>
+<p><a href="https://www.youtube.com/watch?v=aQcvh-Rlnl8" target="_blank"> 2020_02_17 // Sofiane Pamart - Chicago</a></p>
 <p><a href="https://www.youtube.com/watch?v=pg_YV40UI3E" target="_blank"> 2020_02_14 // Jeanne Added - Mutate</a></p>  
 <p><a href="https://www.youtube.com/watch?v=DyMMEmwFQUE" target="_blank"> 2020_02_13 // Elvin Bishop - Fooled Around and Fell in Love</a></p>  
 <p><a href="https://www.youtube.com/watch?v=nkYf8ylQk9I" target="_blank"> 2020_02_11 // Slipknot - A Liar's Funeral</a></p>  
@@ -294,6 +299,16 @@ window.onclick = function(event) {
 <p><strong>Lundi 17 Février<br>Sofiane Pamart - Chicago</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aQcvh-Rlnl8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
+<p><strong>Lundi 24 Février<br>Kings Of Leon - Sex on Fire</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RF0HhrwIwp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
