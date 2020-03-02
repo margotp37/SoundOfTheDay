@@ -62,6 +62,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <details><summary>Février 2020</summary>
 <p>
+<p><a href="https://www.youtube.com/watch?v=Cx3QmqV2pHg" target="_blank"> 2020_02_28 // Billy Joel - She's Always a Woman</a></p>  
+<p><a href="https://www.youtube.com/watch?v=TUdcIF00ekg" target="_blank"> 2020_02_27 // IAM - L'empire du côté obscur</a></p>  
+<p><a href="https://www.youtube.com/watch?v=GwTqNNXNQnA" target="_blank"> 2020_02_26 // Spirited Away - Sixth Stop</a></p>  
+<p><a href="https://www.youtube.com/watch?v=ynDeTGUji1I" target="_blank"> 2020_02_25 // Lucy Dacus - La Vie En Rose</a></p>
+<p><a href="https://www.youtube.com/watch?v=RF0HhrwIwp0" target="_blank"> 2020_02_24 // Kings Of Leon - Sex on Fire</a></p>  
 <p><a href="https://www.youtube.com/watch?v=2Bb0k9HgQxc" target="_blank"> 2020_02_21 // Max Richter - November</a></p>
 <p><a href="https://www.youtube.com/watch?v=AFap6ff9ssk" target="_blank"> 2020_02_20 // Brigitte - Monsieur je t'aime</a></p>
 <p><a href="https://www.youtube.com/watch?v=or45vdE7cT8" target="_blank"> 2020_02_19 // City and Colour - Woman</a></p>
@@ -299,6 +304,16 @@ window.onclick = function(event) {
 <p><strong>Lundi 24 Février<br>Kings Of Leon - Sex on Fire</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RF0HhrwIwp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
+<p><strong>Lundi 02 Mars<br>-M- - Grand Petit Con</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CfCxItPlidc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
