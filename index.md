@@ -261,6 +261,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Vendredi 06 Mars<br>Giedre - On fait tous caca</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tv4osVTyCH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Jeudi 05 Mars<br>Metallica - Nothing Else Matters</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tAGnKpE4NCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
