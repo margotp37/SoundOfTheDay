@@ -60,6 +60,16 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span><center>
       <!-------------------------SPOILER----------------------->
 
+<details><summary>Mars 2020</summary>
+<p>
+<p><a href="https://www.youtube.com/watch?v=Tv4osVTyCH4" target="_blank"> 2020_03_06 // Giedre - On fait tous caca</a></p>
+<p><a href="https://www.youtube.com/watch?v=tAGnKpE4NCI" target="_blank"> 2020_03_05 // Metallica - Nothing Else Matters</a></p>
+<p><a href="https://www.youtube.com/watch?v=gJLIiF15wjQ" target="_blank"> 2020_03_04 // Spice Girls - Wannabe</a></p>
+<p><a href="https://www.youtube.com/watch?v=IgHEh32_KZc" target="_blank"> 2020_03_03 // Acid Arab - Buzq Blues</a></p>
+<p><a href="https://www.youtube.com/watch?v=CfCxItPlidc" target="_blank"> 2020_03_02 // -M- - Grand Petit Con</a></p>
+</p>
+</details>
+
 <details><summary>Février 2020</summary>
 <p>
 <p><a href="https://www.youtube.com/watch?v=Cx3QmqV2pHg" target="_blank"> 2020_02_28 // Billy Joel - She's Always a Woman</a></p>  
@@ -261,49 +271,9 @@ window.onclick = function(event) {
 <br />
 <center>
 
-<p><strong>Vendredi 06 Mars<br>Giedre - On fait tous caca</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+<p><strong>Lundi 09 Mars<br>Didier Super - On va tous crever</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tv4osVTyCH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Jeudi 05 Mars<br>Metallica - Nothing Else Matters</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tAGnKpE4NCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mercredi 04 Mars<br>Spice Girls - Wannabe</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gJLIiF15wjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Mardi 03 Mars<br>Acid Arab - Buzq Blues</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IgHEh32_KZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  <br>
-
-<p>Bonne écoute ;)</p>
-
-<br /><br />
-
-<p><strong>Lundi 02 Mars<br>-M- - Grand Petit Con</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CfCxItPlidc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s7d2VqwsIpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
   <br>
 
