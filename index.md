@@ -271,6 +271,16 @@ window.onclick = function(event) {
 <br />
 <center>
 
+<p><strong>Mercredi 11 Mars<br>The White Stripes - Seven Nation Army</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0J2QdDbelmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+  <br>
+
+<p>Bonne écoute ;)</p>
+
+<br /><br />
+
 <p><strong>Mardi 10 Mars<br>Huey Lewis & The News - The Power Of Love</strong><br>(Et comme toujours, on pense aux collègues, on met son casque ;) )<br /> <br />
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBl2QGAIx1s?start=132" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
